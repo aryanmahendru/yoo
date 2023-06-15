@@ -1,0 +1,29 @@
+[
+    {
+        "User": "bisman",
+        "Clothes": [
+            "pant"
+        ],
+        "WashingType": "Delicate",
+        "Drying": true,
+        "WaterTemperature": "Warm"
+    },
+    {
+        "User": "bisman",
+        "Clothes": [
+            ""
+        ],
+        "WashingType": "Delicate",
+        "Drying": true,
+        "WaterTemperature": "Warm"
+    },
+    {
+        "User": "bisman",
+        "Clothes": [
+            "clothe"
+        ],
+        "WashingType": "Delicate",
+        "Drying": false,
+        "WaterTemperature": "Warm"
+    }
+]
